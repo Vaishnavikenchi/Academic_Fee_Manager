@@ -34,4 +34,12 @@ AcademicFeeManager/
 ├── main.py # Main Python source code
 ├── README.md # Project documentation
 
+## ▶️ How to Run the Project
+1️⃣ Install **Python 3** on your system  
+2️⃣ Download or clone this repository  
+3️⃣ Open terminal / command prompt  
+4️⃣ Navigate to the project folder  
+5️⃣ Run the command:
+python main.py
+
 
