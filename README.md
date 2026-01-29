@@ -28,12 +28,6 @@ This project is ideal for **college mini-projects, practical exams, and Python f
 
 ---
 
-## 📂 Project Structure
-AcademicFeeManager/
-│
-├── main.py # Main Python source code
-├── README.md # Project documentation
-
 ## ▶️ How to Run the Project
 1️⃣ Install **Python 3** on your system  
 2️⃣ Download or clone this repository  
@@ -83,7 +77,7 @@ python main.py
 
 ## 👩‍💻 Developed By
 **Vaishnavi Kenchi** 💙  
-🎓 Diploma / BTech Student  
+🎓 Diploma  student  
 🐍 Python Mini Project  
 
 ---
